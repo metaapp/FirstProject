@@ -6,4 +6,4 @@ with open('c:\\Users\\Kubo\\Downloads\\20160108065157.csv') as csvfile:
     for row in csvreader:
         print(', '.join(row))
 
-print("Koniec")
+print("Skutocny koniec")
